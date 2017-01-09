@@ -8,6 +8,8 @@ Steps:-
 Configuration
 1) Install Apache Xampp Server
 2) Put this project in htdocs folder located in c/xampp/htdocs
+3) Install phpmailer and locate it in respective folder
+4) Install phpexcel and locate it in respective folder
 3) Add respective details in data.xml file
 
 
